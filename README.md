@@ -2,6 +2,10 @@
 
 
 Me chamo João Victor, tenho 25 anos natural de Brasília-DF. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas no Instituto de Educação Superior de Brasília - IESB.
+<br>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joao.victoralude@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/joão-victor11)
 
 ---
 
@@ -65,5 +69,11 @@ Me chamo João Victor, tenho 25 anos natural de Brasília-DF. Atualmente, sou fo
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor061&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor061&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6" 
   />
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVictor061/JoaoVictor061/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoVictor061/JoaoVictor061/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JoaoVictor061/JoaoVictor061/output/github-contribution-grid-snake.svg">
+</picture>
