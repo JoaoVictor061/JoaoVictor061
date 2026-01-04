@@ -32,9 +32,13 @@ Me chamo João Victor, tenho 25 anos, natural de Brasília-DF. Atualmente, sou f
 
 ### 📊 Estatísticas
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor061&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=pt-br"/>
+<img align="left" alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api?username=JoaoVictor061&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=pt-br"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor061&theme=dracula&layout=compact&langs_count=6"/>
+<img align="left" alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor061&theme=dracula&layout=compact&langs_count=6"/>
 
 
 <picture align="center">
