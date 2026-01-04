@@ -1,76 +1,41 @@
 # 👨‍💻 João Victor
 
-
-Me chamo João Victor, tenho 25 anos natural de Brasília-DF. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas no Instituto de Educação Superior de Brasília - IESB.
+Me chamo João Victor, tenho 25 anos, natural de Brasília-DF. Atualmente, sou formado em Análise e Desenvolvimento de Sistemas no Instituto de Educação Superior de Brasília - IESB.
 <br>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:joao.victoralude@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](www.linkedin.com/in/joão-victor11)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:joao.victoralude@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6)](https://www.linkedin.com/in/joao-victor11)
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
+<img align="left" alt="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+<img align="left" alt="JavaScript" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+<img align="left" alt="React" 
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 
-<br/>
-<br/>
+<br/><br/>
+
+---
 
 ### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="GitHub Stats"
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=JoaoVictor061&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale-pt-br" 
-/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor061&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&locale=pt-br"/>
 
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor061&theme=dracula&layout=compact&langs_count=6"/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor061&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoVictor061/JoaoVictor061/output/github-contribution-grid-snake-dark.svg">
